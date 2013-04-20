@@ -4,7 +4,7 @@
 $mail_from="$email"; 
 
 // Enter your email address
-$to ='info@egency.me';
+$to ='deepak@egency.me';
 
 $send_contact=mail($to,$subject,$message,$header);
 
